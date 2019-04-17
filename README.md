@@ -1,2 +1,0 @@
-# vanillaJSGame
-Created with CodeSandbox
